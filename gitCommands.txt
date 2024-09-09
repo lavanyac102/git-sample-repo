@@ -8,3 +8,6 @@ git add adds the file to staging area
 git commit -m""
 git log
 Git diff <filename>
+
+
+ generic clasic token - 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 
