@@ -10,9 +10,9 @@ git log
 
  
 
-scenario 1
+scenario 1 ->changes
 
-scenario 2
+scenario 2->changes
 
-scenario 3
+scenario 3 ->changes
 

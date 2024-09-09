@@ -8,3 +8,5 @@ git add adds the file to staging area
 git commit -m""
 git log
 Git diff <filename>
+
+scenario changed now by me :( lol
