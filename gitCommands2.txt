@@ -1,0 +1,10 @@
+git status ->prints the status of the git directory
+git init -> initializes the git rep
+git config --global user.name "Let's Kode IT" - > specify user name
+git config --global user.email "letskodeit@gmail.com"
+git config user.name "Let's Kode IT"
+git config user.email "letskodeit@gmail.com"
+git add adds the file to staging area
+git commit -m""
+git log
+Git diff <filename>
